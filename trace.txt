@@ -1,0 +1,57 @@
+Tue 12/04/18  07:11:23 PM
+
+directory: __pycache__ ...
+error: no sets of tour-files are present
+
+directory: old ...
+error: no sets of tour-files are present
+
+directory: resultsOther ...
+error: no sets of tour-files are present
+
+directory: wtxd25 ...
+TourfileA...
+NEWAISearchfile012.txt: good (length of tour is 56)
+NEWAISearchfile017.txt: good (length of tour is 1756)
+NEWAISearchfile021.txt: good (length of tour is 3040)
+NEWAISearchfile026.txt: good (length of tour is 1654)
+NEWAISearchfile042.txt: good (length of tour is 1521)
+NEWAISearchfile048.txt: good (length of tour is 20783)
+NEWAISearchfile058.txt: good (length of tour is 49143)
+NEWAISearchfile175.txt: good (length of tour is 39075)
+NEWAISearchfile180.txt: good (length of tour is 421080)
+NEWAISearchfile535.txt: good (length of tour is 129019)
+TourfileB...
+NEWAISearchfile012.txt: good (length of tour is 56)
+NEWAISearchfile017.txt: good (length of tour is 1831)
+NEWAISearchfile021.txt: good (length of tour is 2845)
+NEWAISearchfile026.txt: good (length of tour is 1606)
+NEWAISearchfile042.txt: good (length of tour is 1246)
+NEWAISearchfile048.txt: good (length of tour is 15693)
+NEWAISearchfile058.txt: good (length of tour is 33738)
+NEWAISearchfile175.txt: good (length of tour is 26323)
+NEWAISearchfile180.txt: good (length of tour is 14840)
+NEWAISearchfile535.txt: good (length of tour is 74660)
+
+Best tours:
+
+NEWAISearchfile012.txt: best tour has length 56
+NEWAISearchfile012.txt winners : wtxd25
+NEWAISearchfile017.txt: best tour has length 1756
+NEWAISearchfile017.txt winners : wtxd25
+NEWAISearchfile021.txt: best tour has length 2845
+NEWAISearchfile021.txt winners : wtxd25
+NEWAISearchfile026.txt: best tour has length 1606
+NEWAISearchfile026.txt winners : wtxd25
+NEWAISearchfile042.txt: best tour has length 1246
+NEWAISearchfile042.txt winners : wtxd25
+NEWAISearchfile048.txt: best tour has length 15693
+NEWAISearchfile048.txt winners : wtxd25
+NEWAISearchfile058.txt: best tour has length 33738
+NEWAISearchfile058.txt winners : wtxd25
+NEWAISearchfile175.txt: best tour has length 26323
+NEWAISearchfile175.txt winners : wtxd25
+NEWAISearchfile180.txt: best tour has length 14840
+NEWAISearchfile180.txt winners : wtxd25
+NEWAISearchfile535.txt: best tour has length 74660
+NEWAISearchfile535.txt winners : wtxd25
